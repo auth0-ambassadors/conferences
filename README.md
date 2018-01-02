@@ -4,9 +4,10 @@
 
 | Conference | From | To        | Where           | CFP Open | CFP Deadline  | CFP | 
 | ---------: | :---: | ------------- |:-------------:| :----: |:-----:| ------: |
-| [ng-conf](https://ng-conf.org/)  |  04/17/2018      | 04/20/2018 | Salt Lake City, Utah, USA | :white_check_mark: |01/15/2018 | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSc_sWRfsyNsq7CRdHqjLaSM_bgL_z-WoEHAltQr8a-2y4yKmg/viewform)
-| [Railsconf](https://railsconf.com/)  |  04/17/2018      | 04/19/2018 | Pittsburgh, Pennsylvania, USA | :white_check_mark: |01/19/2018 | [Apply](http://cfp.rubycentral.org/events/railsconf2018)
-| [Node Summit](http://www.nodesummit.com/)  |  07/23/2018      | 07/25/2018 | San Francisco, California, USA | :white_check_mark: |N/A | [Apply](http://www.nodesummit.com/speakers/become-a-speaker/)
+| [ng-conf](https://ng-conf.org/)  |  04/17/2018      | 04/20/2018 | Salt Lake City, UT | :white_check_mark: |01/15/2018 | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSc_sWRfsyNsq7CRdHqjLaSM_bgL_z-WoEHAltQr8a-2y4yKmg/viewform)
+| [Railsconf](https://railsconf.com/)  |  04/17/2018      | 04/19/2018 | Pittsburgh, PA| :white_check_mark: |01/19/2018 | [Apply](http://cfp.rubycentral.org/events/railsconf2018)
+| [Node Summit](http://www.nodesummit.com/)  |  07/23/2018      | 07/25/2018 | San Francisco, CA | :white_check_mark: |N/A | [Apply](http://www.nodesummit.com/speakers/become-a-speaker/)
+| [Laracon](http://laracon.us/)  |  07/25/2018      | 07/26/2018 | Chicago, IL | :white_check_mark: |N/A | [Apply](https://laravel.typeform.com/to/nq3fZ2)
 
 
 ## Europe
