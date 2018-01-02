@@ -13,3 +13,4 @@
 | Conference | From | To        | Where           | CFP Open | CFP Deadline  | CFP | 
 | ---------: | :---: | ------------- |:-------------:| :----: |:-----:| ------: |
 | [JSConf EU](https://2018.jsconf.eu)  |  06/02/2018      | 06/03/2018 | Berlin, Germany | :x: |01/01/2018 | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScKkOdU30XlZ34hrBZ53jdD0CgKS-_wRDKBbc3JZTr_zjP7nw/viewform)
+| [dotGo](https://2019.dotgo.eu/)  |  03/25/2019      | 03/25/2019 | Paris, France | :white_check_mark: |N/A | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1)
