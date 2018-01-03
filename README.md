@@ -1,6 +1,6 @@
-# conferences
+# Conferences
 
-## United States
+## 🇺🇸 United States
 
 | Conference | From | To        | Where           | CFP Open | CFP Deadline  | CFP | 
 | ---------: | :---: | ------------- |:-------------:| :----: |:-----:| ------: |
@@ -12,7 +12,7 @@
 | [Laracon](http://laracon.us/)  |  07/25/2018      | 07/26/2018 | Chicago, IL | :white_check_mark: |N/A | [Apply](https://laravel.typeform.com/to/nq3fZ2)
 
 
-## Europe
+## 🇪🇺 Europe
 
 | Conference | From | To        | Where           | CFP Open | CFP Deadline  | CFP | 
 | ---------: | :---: | ------------- |:-------------:| :----: |:-----:| ------: |
