@@ -14,6 +14,7 @@
 
 | Conference | From | To        | Where           | CFP Open | CFP Deadline  | CFP | 
 | ---------: | :---: | ------------- |:-------------:| :----: |:-----:| ------: |
+| [AFCEA Tokyo](https://afceatokyo.org)  |  03/06/2018      | 03/08/2018 | Tokyo, Japan | :white_check_mark: |01/31/2018 | [Apply](https://afceatokyo.org/technet/cfp/)
 | [ReactEurope](https://www.react-europe.org/)  |  05/15/2018      | 05/18/2018 | Paris, France | :white_check_mark: |01/21/2018 | [Apply](https://checkout.eventlama.com/#/events/reacteurope-2018/cfp)
 | [Riga DevDays](https://rigadevdays.lv/)  |  05/29/2018      | 05/31/2019 | Riga, Latvia | :white_check_mark: | 02/06/2018 | [Apply](http://cfp.rigadevdays.lv)
 | [dotScale](https://www.dotscale.io/)  |  05/31/2018      | 06/01/2018 | Paris, France | :white_check_mark: |N/A | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1)
