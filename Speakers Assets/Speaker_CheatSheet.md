@@ -33,7 +33,7 @@ This is handy set of rules & tips sheet which helps out TS’s to prepare for th
 * Supporting materials
 * Ethusiasm
 
-####### It's always about asking the right questions to get the correct insights !!
+##### It's always about asking the right questions to get the correct insights !!
 
 ## Talk Logistical planning:
 
