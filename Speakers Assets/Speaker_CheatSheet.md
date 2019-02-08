@@ -1,6 +1,6 @@
 # Speakers CheatSheet
 
-This is handy set of rules & tips sheet which helps out TS’s to prepare for their talks & workshops.
+This is handy set of rules & tips sheet which helps out Speaker’s to prepare for their sessions, talks & workshops.
 
 ## CFP Tricks:
 
